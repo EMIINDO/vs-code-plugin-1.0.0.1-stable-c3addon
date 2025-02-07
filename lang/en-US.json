@@ -1,0 +1,25 @@
+﻿{
+	"languageTag": "en-US",
+	"fileDescription": "Strings for ScriptReload.",
+	"text": {
+		"plugins": {
+			"edwardbonnett_vscodeplugin": {
+				"name": "VS Code Plugin",
+				"description": "Connects VS Code to Construct 3, VS Code extension \"Construct 3 Tools\" required",
+				"help-url": "https://github.com/EdwardBonnett/c3-auto-script-reloader/tree/vscode",
+				"properties": {
+				},
+				"aceCategories": {
+                    "custom": "Custom"
+				},
+				"conditions": {
+				},
+				"actions": {
+
+				},
+				"expressions": {
+				}
+			}
+		}
+	}
+}
